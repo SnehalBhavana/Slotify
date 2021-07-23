@@ -1,0 +1,418 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"user",
+				"userLoggedIn"
+			],
+			[
+				"album",
+				"albumSong"
+			],
+			[
+				"curr",
+				"currentPlaylist"
+			],
+			[
+				"c",
+				"currentIndex"
+			],
+			[
+				"shu",
+				"shufflePlaylist"
+			],
+			[
+				"new",
+				"newPlaylist"
+			],
+			[
+				"audio",
+				"audioElement"
+			],
+			[
+				"au",
+				"audio"
+			],
+			[
+				"a",
+				"audio"
+			],
+			[
+				"cu",
+				"currentPlaylist"
+			],
+			[
+				"set",
+				"setTrack"
+			],
+			[
+				"img",
+				"imageName"
+			],
+			[
+				"i",
+				"images"
+			],
+			[
+				"pause",
+				"pauseSong"
+			],
+			[
+				"se",
+				"setTime"
+			],
+			[
+				"tra",
+				"trackToPlay"
+			],
+			[
+				"current",
+				"currentIndex"
+			],
+			[
+				"tr",
+				"trackId"
+			],
+			[
+				"mo",
+				"mousemove"
+			],
+			[
+				"mouse",
+				"mousedown"
+			],
+			[
+				"now",
+				"nowPlayingBarContainer"
+			],
+			[
+				"vo",
+				"volume"
+			],
+			[
+				"volu",
+				"volumeBar"
+			],
+			[
+				"aud",
+				"audioElement"
+			],
+			[
+				"pr",
+				"progressBar"
+			],
+			[
+				"play",
+				"playBackBar"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"genre",
+				"genre"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"MIN",
+				"min-width\tproperty"
+			],
+			[
+				"mar",
+				"margin-right\tproperty"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"box-",
+				"box-sizing\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"bo",
+				"bottom\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/SpotifyFree/includes/config.php",
+		"/C/xampp/htdocs/SpotifyFree/album.php",
+		"/C/xampp/htdocs/SpotifyFree/includes/header.php",
+		"/C/xampp/htdocs/SpotifyFree/index.php",
+		"/C/xampp/htdocs/SpotifyFree/artist.php",
+		"/C/xampp/htdocs/SpotifyFree/includes/classes/Song.php",
+		"/C/xampp/htdocs/SpotifyFree/assets/js/script.js",
+		"/C/xampp/htdocs/SpotifyFree/assets/js/register.js",
+		"/C/xampp/htdocs/SpotifyFree/register.php",
+		"/C/xampp/htdocs/SpotifyFree/includes/navBarContainer.php",
+		"/C/xampp/htdocs/SpotifyFree/includes/includedFiles.php",
+		"/C/xampp/htdocs/SpotifyFree/includes/nowPlayingBar.php",
+		"/C/xampp/htdocs/SpotifyFree/assets/css/style.css",
+		"/C/xampp/htdocs/SpotifyFree/browse.php",
+		"/C/xampp/htdocs/SpotifyFree/assets/css/register.css",
+		"/C/xampp/htdocs/SpotifyFree/search.php",
+		"/C/xampp/htdocs/SpotifyFree/includes/classes/Album.php",
+		"/C/Users/Bhava/Downloads/Slotify/includes/handlers/ajax/getArtistJson.php",
+		"/C/Users/Bhava/Downloads/Slotify/includes/handlers/ajax/updatePlays.php",
+		"/C/Users/Bhava/Downloads/Slotify/includes/handlers/ajax/getSongJson.php",
+		"/C/Users/Bhava/Downloads/Slotify/includes/handlers/ajax/getAlbumJson.php",
+		"/C/Users/Bhava/Documents/Slotify/includes/nowPlayingBar.php",
+		"/C/xampp/htdocs/SpotifyFree/includes/classes/Artist.php",
+		"/C/Users/Bhava/Downloads/Slotify/includes/handlers/login-handler.php",
+		"/C/Users/Bhava/Downloads/Slotify/includes/nowPlayingBar.php",
+		"/C/Users/Bhava/Downloads/Slotify/assets/js/script.js",
+		"/C/Users/Bhava/Downloads/Slotify-getRandomSongs/Slotify/includes/nowPlayingBar.php",
+		"/C/Users/Bhava/Downloads/Slotify-trackDurationStyle/Slotify/album.php",
+		"/C/Users/Bhava/Downloads/Slotify-trackCount/Slotify/includes/classes/Song.php",
+		"/C/Users/Bhava/Downloads/Slotify-trackCount/Slotify/includes/classes/Album.php",
+		"/C/xampp/htdocs/SpotifyFree/includes/classes/Account.php",
+		"/C/Users/Bhava/Downloads/Slotify-entityInfoSection/Slotify/includes/classes/Album.php",
+		"/C/Users/Bhava/Downloads/Slotify-entityInfoSection/Slotify/album.php",
+		"/C/Users/Bhava/AppData/Local/Temp/Temp1_Slotify-albumLinks.zip/Slotify/index.php",
+		"/C/Users/Bhava/Downloads/Slotify-echoAlbumTitles/Slotify/index.php",
+		"/C/Users/Bhava/Downloads/Slotify-headerAndFooterFiles/Slotify/index.php",
+		"/C/xampp/htdocs/SpotifyFree/includes/footer.php",
+		"/C/Users/Bhava/Downloads/Slotify-headerAndFooterFiles/Slotify/includes/footer.php",
+		"/C/Users/Bhava/Downloads/Slotify-headerAndFooterFiles/Slotify/includes/header.php",
+		"/C/Users/Bhava/Downloads/Slotify-organisationTrick/Slotify/index.php",
+		"/C/xampp/htdocs/SpotifyFree/includes/handler/login-handler.php",
+		"/C/xampp/htdocs/SpotifyFree/includes/handler/register-handler.php",
+		"/C/xampp/htdocs/SpotifyFree/includes/classes/Constants.php",
+		"/C/Users/Bhava/Downloads/Slotify-organisationTrick/Slotify/includes/navBarContainer.php",
+		"/C/Users/Bhava/AppData/Local/Temp/Temp2_Slotify-wasSuccessful.zip/Slotify/includes/handlers/login-handler.php",
+		"/C/Users/Bhava/AppData/Local/Temp/Temp1_Slotify-outputErrors.zip/Slotify/includes/classes/Account.php",
+		"/C/Users/Bhava/AppData/Local/Temp/Temp1_Slotify-outputErrors.zip/Slotify/register.php",
+		"/C/Users/Bhava/AppData/Local/Temp/Temp2_Slotify-wasSuccessful.zip/Slotify/includes/handlers/register-handler.php",
+		"/C/Users/Bhava/AppData/Local/Temp/Temp2_Slotify-wasSuccessful.zip/Slotify/register.php",
+		"/C/Users/Bhava/AppData/Local/Temp/Temp1_Slotify-wasSuccessful.zip/Slotify/includes/classes/Account.php",
+		"/C/Users/Bhava/AppData/Local/Temp/Temp1_Slotify-validatePasswords.zip/Slotify/includes/handlers/register-handler.php",
+		"/C/Users/Bhava/AppData/Local/Temp/Temp1_Slotify-accountClass.zip/Slotify/includes/classes/Account.php",
+		"/C/xampp/htdocs/slotify/register.php",
+		"/C/xampp/htdocs/slotify/index.php"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "album.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
